@@ -26,7 +26,9 @@ AWS CodePipeline é um serviço de entrega contínua que ajuda a automatizar os 
 <br>
 
 <!-- LINKS UTEIS -->
-| **Documentacao**                                              |
+#### Links úteis
+
+| **Documentação**                                              |
 | ------------------------------------------------------------- |
 | [Git](https://git-scm.com/)                                   |
 | [Github](https://docs.github.com/pt)                          |
@@ -53,8 +55,6 @@ AWS CodePipeline é um serviço de entrega contínua que ajuda a automatizar os 
 | [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)         | Veja o histórico de commits, compare commits e visualize arquivos alterados.                                                                |
 | [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) | Gerencie seus projetos e repositórios Git de forma eficiente.                                                                               |
 | [Github Copilot](https://docs.github.com/pt/copilot)                                               | Você pode usar o GitHub Copilot para obter sugestões de preenchimento automático de um programador de par de IA à medida que cria o código. |
-
-`OBS: Opinião pessoal gostei de utilizar o Git Graph`
 
 <br>
 
@@ -122,7 +122,7 @@ AWS CodePipeline é um serviço de entrega contínua que ajuda a automatizar os 
     git clone https://github.com/usuario/nome-do-repositorio.git
     ~~~
 
-5. Criar uma **BRANCH** para alterar o projeto clonando a **BRANCH** principal com os quatro comandos abaixo:
+5. Criar uma **BRANCH** para alterar o projeto clonando a **BRANCH** principal com os quatro comandos abaixo:<br><br>
     `Uma branch (ramificação) no Git é uma linha paralela de desenvolvimento que permite que você trabalhe em diferentes funcionalidades, correções de bugs ou experimentos de forma isolada do código principal. Cada branch pode ter seu próprio conjunto de commits e histórico de alterações.`
 
     ~~~bash
@@ -132,7 +132,7 @@ AWS CodePipeline é um serviço de entrega contínua que ajuda a automatizar os 
     git checkout -b nome-da-nova-branch
     ~~~
 
-6. Comitando alterações do código
+6. Comitando alterações do código<br><br>
     `Um commit no Git é uma operação que salva as alterações feitas no código em um repositório. Cada commit cria um ponto no histórico do projeto, permitindo que você registre o estado atual do código e forneça uma mensagem descritiva sobre as mudanças realizadas.`
 
     - Comando ADD para preparar as alterações para comitar
@@ -147,18 +147,23 @@ AWS CodePipeline é um serviço de entrega contínua que ajuda a automatizar os 
     git commit -m "Sua mensagem de commit"
     ~~~
 
-7. Enviando commites LOCAIS para um repositório REMOTO
+7. Crie uma conta no Github para uso pessoal [link](https://github.com/)
+
+8. Enviando commites LOCAIS para um repositório REMOTO<br><br>
     `O comando push no Git é usado para enviar commits locais para um repositório remoto. Isso atualiza o repositório remoto com as alterações feitas localmente, permitindo que outros colaboradores acessem e integrem essas mudanças.`
 
     ~~~bash
     git push origin nome-da-branch
     ~~~
 
-8. Validar diretamente via link repositório se as alterações refletiram na **BRANCH** de origem
+9. Validar diretamente via link repositório se as alterações refletiram na **BRANCH** de origem
 
-9. Seguir o fluxo de Pull Request e mergear alterações para as BRANCHs de cada ambiente
+10. Seguir o fluxo de Pull Request e mergear alterações para as BRANCHs de cada ambiente<br><br>
     `Um Pull Request (PR) é um processo no Git usado para revisar e integrar mudanças de uma branch para outra, geralmente da branch de feature para a branch principal (main ou master).`
 
     - Abrir um Pull Request: No repositório remoto (por exemplo, GitHub), navegue até a página do repositório e clique em "New Pull Request". Selecione a branch de origem e a branch de destino.
 
+11. Mais informações utilizar os links dos [**site de treinamento**](#links-úteis) ou a documentação sobre o [**GIT** e **Github**](#links-úteis)
+
+12. Também inclui alguns comandos na aba de comandos git [AQUI](./commands/comandos-git.md)
 
