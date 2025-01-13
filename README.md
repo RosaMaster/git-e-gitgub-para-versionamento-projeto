@@ -23,20 +23,44 @@ GitLab é uma plataforma de DevOps completa que fornece repositórios Git, integ
 **AWS Codepipeline**<br>
 AWS CodePipeline é um serviço de entrega contínua que ajuda a automatizar os pipelines de lançamento de software para atualizações rápidas e confiáveis. Ele permite que você modele, visualize e automatize as etapas necessárias para liberar seu software, desde a compilação e teste até a implantação. CodePipeline se integra com serviços da AWS e ferramentas de terceiros, facilitando a criação de fluxos de trabalho de entrega contínua.
 
+**padroes-de-commits**<br>
+Commit Semântico é uma convenção para escrever mensagens de commit que são mais informativas e estruturadas. Ele ajuda a entender o histórico de commits e facilita a automação de processos de versionamento e lançamento. A estrutura básica de um commit semântico é
+
+~~~texto
+<tipo>(<escopo opcional>): <descrição>
+~~~
+
+tipo: Indica a categoria do commit. Exemplos comuns incluem:
+
+- feat: Uma nova funcionalidade
+- fix: Correção de bug
+- docs: Mudanças na documentação
+- style: Mudanças que não afetam o significado do código (espaços em branco, formatação, etc.)
+- refactor: Mudança de código que não corrige um bug nem adiciona uma funcionalidade
+- test: Adição ou correção de testes
+- chore: Atualizações de tarefas de build, ferramentas, etc.
+- escopo: Opcional. Indica a parte do código que foi afetada (por exemplo, component, module)
+
+Exemplo de commit semântico
+~~~texto
+feat(auth): adicionar funcionalidade de login com Google
+~~~
+
 <br>
 
 <!-- LINKS UTEIS -->
 #### Links úteis
 
-| **Documentação**                                              |
-| ------------------------------------------------------------- |
-| [Git](https://git-scm.com/)                                   |
-| [Github](https://docs.github.com/pt)                          |
-| [Gitlab](https://docs.gitlab.com/)                            |
-| [AWS Codepipeline](https://docs.aws.amazon.com/codepipeline/) |
-| [Git-School](https://github.com/git-school/visualizing-git)   |
-| [GitHubDesktop](https://docs.github.com/pt/desktop)           |
-| [Github Copilot](https://docs.github.com/pt/copilot)          |
+| **Documentação**                                                     |
+| -------------------------------------------------------------------- |
+| [Git](https://git-scm.com/)                                          |
+| [Github](https://docs.github.com/pt)                                 |
+| [Gitlab](https://docs.gitlab.com/)                                   |
+| [AWS Codepipeline](https://docs.aws.amazon.com/codepipeline/)        |
+| [Git-School](https://github.com/git-school/visualizing-git)          |
+| [GitHubDesktop](https://docs.github.com/pt/desktop)                  |
+| [Github Copilot](https://docs.github.com/pt/copilot)                 |
+| [padroes-de-commits](https://github.com/iuricode/padroes-de-commits) |
 
 <br>
 
