@@ -2,7 +2,7 @@
 
 Você tem à sua disposição no sandbox uma variedade de comandos do git:
 
-- commit
+- [commit](./commit.md)
 
 - branch
 
@@ -17,4 +17,3 @@ Você tem à sua disposição no sandbox uma variedade de comandos do git:
 - rebase
 
 - merge
-
