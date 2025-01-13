@@ -4,11 +4,11 @@ Você tem à sua disposição no sandbox uma variedade de comandos do git:
 
 - [commit](./commit.md)
 
-- branch
+- [branch](./branch.md)
 
-- checkout
+- [checkout](./checkout)
 
-- cherry-pick
+- [cherry-pick](./cherry-pick)
 
 - reset
 
