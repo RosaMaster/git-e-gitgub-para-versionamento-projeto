@@ -39,3 +39,5 @@ git checkout <commit-hash>
 ~~~
 
 Veja um exemplo prático de checkout [AQUI](./exemplo-checkout-pratico.md)
+
+[**[ VOLTAR ]**](./comandos-git.md) <===> [**[ INICIO ]**](#comando-git-checkout)

@@ -34,4 +34,4 @@ git merge nova-feature
 git branch -d nova-feature
 ~~~
 
-[**[ VOLTAR ]**](./comandos-git.md) <===> [**[ INICIO ]**](#fluxo-de-trabalho-com-branches)
+[**[ VOLTAR ]**](./checkout.md) <===> [**[ INICIO ]**](#fluxo-de-trabalho-com-branches)
