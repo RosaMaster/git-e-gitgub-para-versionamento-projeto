@@ -8,6 +8,8 @@ Você tem à sua disposição no sandbox uma variedade de comandos do git:
 
 - [checkout](./checkout)
 
+- [comandos-alternativos](./comandos-alternativos.md)
+
 - [cherry-pick](./cherry-pick)
 
 - reset
