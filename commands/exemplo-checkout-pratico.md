@@ -40,5 +40,5 @@ git checkout 1a2b3c4d
 
 <br>
 
-[**[ VOLTAR ]**](./checkout.md) <===> [**[ INICIO ]**](#exemplos-práticos)
+[**[ VOLTAR ]**](./comandos-git.md) <===> [**[ INICIO ]**](#exemplos-práticos)
 
