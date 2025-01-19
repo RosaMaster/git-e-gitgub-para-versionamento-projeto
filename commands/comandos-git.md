@@ -8,17 +8,21 @@ Você tem à sua disposição no sandbox uma variedade de comandos do git:
 
 - [checkout](./checkout)
 
+- [cherry-pick](./cherry-pick)
+
 - [comandos-alternativos](./comandos-alternativos.md)
 
-- [cherry-pick](./cherry-pick)
+- [fetch-pull-push](./fetch-pull-push.md)
+
+- [init]()
 
 - [reset](./reset.md)
 
-- revert
+- [revert](./revert.md)
 
-- rebase
+- [rebase]()
 
-- merge
+- [merge]()
 
 <br>
 
