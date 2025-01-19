@@ -1,4 +1,4 @@
-### Exemplos Práticos
+### Exemplos Cherry Pick Práticos
 
 Aplicar um commit específico
 
@@ -34,5 +34,5 @@ git cherry-pick a1b2c3d4 e5f6g7h8 i9j0k1l2
 
 <br>
 
-[**[ VOLTAR ]**](./comandos-git.md) <===> [**[ INICIO ]**](#exemplos-práticos)
+[**[ VOLTAR ]**](./comandos-git.md) <===> [**[ INICIO ]**](#exemplos-cherry-pick-práticos)
 
