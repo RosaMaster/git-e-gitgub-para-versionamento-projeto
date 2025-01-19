@@ -12,7 +12,7 @@ Você tem à sua disposição no sandbox uma variedade de comandos do git:
 
 - [cherry-pick](./cherry-pick)
 
-- reset
+- [reset](./reset.md)
 
 - revert
 

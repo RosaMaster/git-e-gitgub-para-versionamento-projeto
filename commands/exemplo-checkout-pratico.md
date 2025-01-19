@@ -1,4 +1,4 @@
-### Exemplos Práticos
+### Exemplos Checkout Práticos
 
 Mudar para a branch **main**
 
@@ -40,5 +40,5 @@ git checkout 1a2b3c4d
 
 <br>
 
-[**[ VOLTAR ]**](./comandos-git.md) <===> [**[ INICIO ]**](#exemplos-práticos)
+[**[ VOLTAR ]**](./comandos-git.md) <===> [**[ INICIO ]**](#exemplos-checkout-práticos)
 
