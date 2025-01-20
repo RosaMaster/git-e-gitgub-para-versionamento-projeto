@@ -12,13 +12,13 @@ def main():
 
     for i in range(5):
 
-        gerar = random.randint(1, 30)
+        gerar = random.randint(1, 40)
 
         print(f"Valor {i+1}: {gerar}")
 
         conjunto.add(gerar)
 
-        if 10 <= gerar <= 20:
+        if 10 <= gerar <= 25:
             dentro_intervalo += 1
         else:
             fora_intervalo += 1
