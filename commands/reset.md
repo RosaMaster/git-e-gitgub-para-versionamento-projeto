@@ -1,6 +1,6 @@
 ### Comando git reset
 
-O comando git reset é uma ferramenta poderosa no Git usada para desfazer mudanças. Ele pode ser usado para redefinir o índice (staging area), o diretório de trabalho ou ambos para um estado anterior. O git reset pode ser perigoso se não for usado corretamente, pois pode alterar o histórico de commits.
+O comando git reset é uma ferramenta poderosa no Git usada para desfazer mudanças. Ele pode ser usado para redefinir o índice (staging area), o diretório de trabalho ou ambos para um estado anterior. O git reset pode ser perigoso se não for usado corretamente, pois pode alterar o histórico de commits
 
 #### Modos de git reset
 
