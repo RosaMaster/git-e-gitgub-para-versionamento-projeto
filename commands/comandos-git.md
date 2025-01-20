@@ -14,15 +14,15 @@ Você tem à sua disposição no sandbox uma variedade de comandos do git:
 
 - [fetch-pull-push](./fetch-pull-push.md)
 
-- [init]()
+- [init](./init.md)
 
 - [reset](./reset.md)
 
 - [revert](./revert.md)
 
-- [rebase]()
+- [rebase](./rebase.md)
 
-- [merge]()
+- [merge](./merge.md)
 
 <br>
 
