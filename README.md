@@ -14,19 +14,19 @@
 ### Descrição
 
 **GIT**<br>
-Git é um sistema de controle de versão distribuído, usado para rastrear mudanças no código-fonte durante o desenvolvimento de software. Ele permite que múltiplos desenvolvedores trabalhem em um projeto simultaneamente, mantendo um histórico completo de todas as alterações feitas no código. Git facilita a colaboração, o gerenciamento de versões e a recuperação de versões anteriores do código.
+**Git** é um sistema de controle de versão distribuído, usado para rastrear mudanças no código-fonte durante o desenvolvimento de software. Ele permite que múltiplos desenvolvedores trabalhem em um projeto simultaneamente, mantendo um histórico completo de todas as alterações feitas no código. Git facilita a colaboração, o gerenciamento de versões e a recuperação de versões anteriores do código.
 
 **Github**<br>
-GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que desenvolvedores colaborem em projetos, revisem código, gerenciem tarefas e documentem seu trabalho. GitHub também oferece funcionalidades como integração contínua, deploy automatizado e uma comunidade ativa para compartilhar e contribuir com projetos de código aberto.
+**GitHub** é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que desenvolvedores colaborem em projetos, revisem código, gerenciem tarefas e documentem seu trabalho. GitHub também oferece funcionalidades como integração contínua, deploy automatizado e uma comunidade ativa para compartilhar e contribuir com projetos de código aberto.
 
 **Gitlab**<br>
-GitLab é uma plataforma de DevOps completa que fornece repositórios Git, integração contínua (CI), entrega contínua (CD), gerenciamento de projetos e muito mais. Ele permite que equipes de desenvolvimento colaborem, revisem código, gerenciem tarefas e automatizem o ciclo de vida de desenvolvimento de software. GitLab pode ser hospedado na nuvem ou instalado localmente.
+**GitLab** é uma plataforma de DevOps completa que fornece repositórios Git, integração contínua (CI), entrega contínua (CD), gerenciamento de projetos e muito mais. Ele permite que equipes de desenvolvimento colaborem, revisem código, gerenciem tarefas e automatizem o ciclo de vida de desenvolvimento de software. GitLab pode ser hospedado na nuvem ou instalado localmente.
 
 **AWS Codepipeline**<br>
-AWS CodePipeline é um serviço de entrega contínua que ajuda a automatizar os pipelines de lançamento de software para atualizações rápidas e confiáveis. Ele permite que você modele, visualize e automatize as etapas necessárias para liberar seu software, desde a compilação e teste até a implantação. CodePipeline se integra com serviços da AWS e ferramentas de terceiros, facilitando a criação de fluxos de trabalho de entrega contínua.
+**AWS CodePipeline** é um serviço de entrega contínua que ajuda a automatizar os pipelines de lançamento de software para atualizações rápidas e confiáveis. Ele permite que você modele, visualize e automatize as etapas necessárias para liberar seu software, desde a compilação e teste até a implantação. CodePipeline se integra com serviços da AWS e ferramentas de terceiros, facilitando a criação de fluxos de trabalho de entrega contínua.
 
 **padroes-de-commits**<br>
-Commit Semântico é uma convenção para escrever mensagens de commit que são mais informativas e estruturadas. Ele ajuda a entender o histórico de commits e facilita a automação de processos de versionamento e lançamento. A estrutura básica de um commit semântico é
+**Commit Semântico** é uma convenção para escrever mensagens de commit que são mais informativas e estruturadas. Ele ajuda a entender o histórico de commits e facilita a automação de processos de versionamento e lançamento. A estrutura básica de um commit semântico é
 
 ~~~texto
 <tipo>(<escopo opcional>): <descrição>
